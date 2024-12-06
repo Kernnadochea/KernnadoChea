@@ -38,10 +38,8 @@
 - Netwrix Auditor
 
 
-
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
-
 - MacOS
 - Windows
 - Ubuntu (Learning in progress)
@@ -52,8 +50,15 @@
 - Okta Certified Administrator
 - CyberArk Certified Trustee
 - CompTIA Security+ (Pending)
+- Splunk Power Users (Planning)
+- CompTIA CYSA+ (Planning)
 
-
-<br> 
-
+<br><br>
+## 🛠️ Learning Platform
+- Youtube
+- HackTheBox
+- TryHackMe
+- LetsDefend
+- Udemy
+<br>
 	
