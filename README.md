@@ -11,11 +11,11 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
+- :technologist: Currently working as a Cybersecuity Engineer focusing in Identity & Access Management
+- ⚡ 6 Years of work experience in the IT Field: 3 Years in Desktop Support and 3 Years in IAM role
 - :school: I am a `Junior` Cybersecurity and Information Assurance student at [Western Governor University](https://www.wgu.edu/)
 - :trophy: Year Up United Alumni
-- :technologist: Securing one vulnerabilites at a time
 - :computer: I am an enthusiastic learner exploring cybersecurity platforms like `HackTheBox` and `TryHackMe`
-- :nerd_face: Always `learning new things`
 <br>
 
 
